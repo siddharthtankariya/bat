@@ -1,0 +1,20 @@
+"GET / HTTP/1.1" 200 883
+"GET /api/usersegment/ HTTP/1.1" 200 206
+"GET /favicon.ico HTTP/1.1" 200 883
+"GET /Users/siddharthtankariya/Desktop/bat/transcriber/frontend/src/assets/segment_voice/11/chunk6.mp3 HTTP/1.1" 200 883
+"GET / HTTP/1.1" 200 883
+"GET /api/usersegment/ HTTP/1.1" 200 206
+"GET /favicon.ico HTTP/1.1" 200 883
+"GET /Users/siddharthtankariya/Desktop/bat/transcriber/frontend/src/assets/segment_voice/11/chunk6.mp3 HTTP/1.1" 200 883
+INFO 2020-05-17 18:06:46,604 basehttp 17692 123145535836160 "GET /Users/siddharthtankariya/Desktop/bat/transcriber/frontend/src/assets/segment_voice/11/chunk6.mp3 HTTP/1.1" 200 883
+INFO 2020-05-17 18:06:48,114 basehttp 17692 123145535836160 "GET / HTTP/1.1" 200 883
+INFO 2020-05-17 18:06:53,756 basehttp 17692 123145535836160 "GET /api/usersegment/ HTTP/1.1" 200 206
+INFO 2020-05-17 18:06:55,551 basehttp 17692 123145535836160 "GET /favicon.ico HTTP/1.1" 200 883
+INFO 2020-05-17 18:06:57,617 basehttp 17692 123145535836160 "GET /Users/siddharthtankariya/Desktop/bat/transcriber/frontend/src/assets/segment_voice/11/chunk6.mp3 HTTP/1.1" 200 883
+INFO 2020-05-17 18:07:30,062 basehttp 17743 123145486532608 "GET / HTTP/1.1" 200 883
+INFO 2020-05-17 18:07:38,957 basehttp 17743 123145486532608 "GET /api/usersegment/ HTTP/1.1" 200 206
+INFO 2020-05-17 18:07:39,481 basehttp 17743 123145486532608 "GET /favicon.ico HTTP/1.1" 200 883
+INFO 2020-05-17 18:08:58,887 basehttp 17826 123145340817408 "GET / HTTP/1.1" 200 883
+INFO 2020-05-17 18:09:02,666 basehttp 17826 123145340817408 "GET /api/usersegment/ HTTP/1.1" 200 206
+INFO 2020-05-17 18:09:03,996 basehttp 17826 123145340817408 "GET /favicon.ico HTTP/1.1" 200 883
+INFO 2020-05-17 18:09:07,610 basehttp 17826 123145340817408 "GET /Users/siddharthtankariya/Desktop/bat/transcriber/frontend/src/assets/segment_voice/11/chunk6.mp3 HTTP/1.1" 200 883

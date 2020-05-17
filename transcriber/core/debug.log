@@ -1,0 +1,4 @@
+"GET / HTTP/1.1" 200 883
+"GET /api/usersegment/ HTTP/1.1" 200 206
+"GET /favicon.ico HTTP/1.1" 200 883
+"GET /Users/siddharthtankariya/Desktop/bat/transcriber/frontend/src/assets/segment_voice/11/chunk6.mp3 HTTP/1.1" 200 883
