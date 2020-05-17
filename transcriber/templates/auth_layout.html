@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block style %}
+    <style>
+       
+        .login-form-container{
+            width: 300px;
+            margin: auto;
+
+        }
+
+        .registration-form-container {
+            width: 300px;
+            margin: auto;
+        }
+        .form-placement{
+            margin-top: 7rem;
+        }
+
+        .auth-box{
+            border:3px solid lightgrey;
+            border-radius: 5px;
+            padding: 2rem;
+            width: 60%;
+            margin: auto;
+        }
+    </style>
+{% endblock %}
+{% block content %}
+
+<div class="form-placement">
+    <div class="auth-box text-center">
+        <img height="200px" width="200px" src="https://cdn-images-1.medium.com/max/1200/1*BFZV3Qt5r8FCujn7U7TK6A.png"/>
+        {% block auth %}
+        {% endblock %}
+    </div>
+</div>
+{% endblock %}
